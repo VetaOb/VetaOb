@@ -6,7 +6,11 @@
 <a href="http://localhost:8088/superset/dashboard/p/n7RE1MaEG3q/"><b>Дашборд с основными метриками</b></a>
 </a><br/>
 <a href="http://localhost:8088/superset/dashboard/p/KGREjpGoQ4q/"><b>Дашборд с продуктовыми метриками активности аудитории и retention rate</b></a>
+</a><br/>
+<a href="http://localhost:8088/superset/dashboard/p/GOQekjZEBNl/"><b>Дашборд с оперативными метриками активности пользователей</b></a>
 <br/><br/><br/>
+
+http://localhost:8088/superset/dashboard/p/GOQekjZEBNl/
 Описание всех проектов:
 
 <table>

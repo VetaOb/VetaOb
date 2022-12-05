@@ -3,7 +3,7 @@
       
         
  #### **Мои лучший проекты :**
- #### [https://github.com/VetaOb/VetaOb/blob/main/Аналитика%20продаж%20Amazon%202020%20года.ipynb] (Аналитика продаж Amazon 2020 года) "jupyter notebook")
+ #### [https://github.com/VetaOb/VetaOb/blob/main/Аналитика%20продаж%20Amazon%202020%20года.ipynb](Аналитика продаж Amazon 2020 года) "jupyter notebook")
  
  #### [ссылка на дашборд](https://www.google.com "Сайт Google")
  

@@ -2,7 +2,7 @@
 
 
 <b>Мои лучший проект :</b><br/>
-<a href="https://github.com/VetaOb/VetaOb/blob/main/Аналитика%20продаж%20Amazon%202020%20года.ipynb" target="_blank"><b>Анализ продаж Amazon 2020 года</b></a><br/>
+<a href="https://github.com/VetaOb/VetaOb/blob/main/Аналитика%20продаж%20Amazon%202020%20года.ipynb" target="_blank"><b>Анализ продаж Amazon</b></a><br/>
 <a href=""><b>Дашборд с оперативными метриками</b></a>
 </a><br/>
 <a href=""><b>Дашборд с продуктовыми метриками</b></a>

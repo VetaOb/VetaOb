@@ -5,12 +5,11 @@
 <a href="https://github.com/VetaOb/VetaOb/blob/main/Аналитика%20продаж%20Amazon%202020%20года.ipynb" target="_blank"><b>Анализ продаж Amazon</b></a><br/>
 <a href="http://localhost:8088/superset/dashboard/p/n7RE1MaEG3q/"><b>Дашборд с основными метриками</b></a>
 </a><br/>
-<a href="http://localhost:8088/superset/dashboard/p/KGREjpGoQ4q/"><b>Дашборд с продуктовыми метриками активности аудитории и retention rate</b></a>
+<a href="Продуктовые метрики. Дашборд superset.zip"><b>Дашборд с продуктовыми метриками активности аудитории и retention rate</b></a>
 </a><br/>
-<a href="http://localhost:8088/superset/dashboard/p/GOQekjZEBNl/"><b>Дашборд с оперативными метриками активности пользователей</b></a>
+<a href="Основные события.Дашборд superset.zip"><b>Дашборд с основными метриками активности пользователей</b></a>
 <br/><br/><br/>
 
-http://localhost:8088/superset/dashboard/p/GOQekjZEBNl/
 Описание всех проектов:
 
 <table>

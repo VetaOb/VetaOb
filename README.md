@@ -3,7 +3,6 @@
 
 <b>Мои лучший проект :</b><br/>
 <a href="https://github.com/VetaOb/VetaOb/blob/main/Аналитика%20продаж%20Amazon%202020%20года.ipynb" target="_blank"><b>Анализ продаж Amazon</b></a><br/>
-<a href="http://localhost:8088/superset/dashboard/p/n7RE1MaEG3q/"><b>Дашборд с основными метриками</b></a>
 </a><br/>
 <a href="Продуктовые метрики. Дашборд superset.zip"><b>Дашборд с продуктовыми метриками активности аудитории и retention rate</b></a>
 </a><br/>

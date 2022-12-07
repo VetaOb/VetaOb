@@ -6,10 +6,10 @@
 </a><br/>
 <a href="https://public.tableau.com/views/DashofHH_ru2/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link"><b>Дашборд в Tableau c метриками вакансий Аналитиков с hh.ru</b></a>
 </a><br/>
+*скриншоты этих дашбордов есть ниже после таблицы, или дашборды superset можно скачать по ссылкам
 <a href="Продуктовые метрики. Дашборд superset.zip"><b>Дашборд в superset с продуктовыми метриками</b></a>
 </a><br/>
 <a href="Основные события.Дашборд superset.zip"><b>Дашборд в superset с основными метриками</b></a>
-*скриншоты этих дашбордов есть ниже после таблицы, или дашборды superset можно скачать по ссылкам
 <br/><br/><br/>
 
 Описание всех проектов:

@@ -9,7 +9,11 @@
 <a href="Основные события.Дашборд superset.zip"><b>Дашборд с основными метриками активности пользователей</b></a>
 <br/><br/><br/>
 
-![Основные метрики](https://drive.google.com/file/d/1SmHKRUNt-uYLjWRUBZvFdTTmHY4GYKzD/view?usp=share_link)
+![Основные метрики]([https://drive.google.com/file/d/1SmHKRUNt-uYLjWRUBZvFdTTmHY4GYKzD/view?usp=share_link)](https://user-images.githubusercontent.com/112506257/206138671-8e77d470-2143-4bc2-b963-66931f744786.jpg)
+
+"Дашборд в superset продуктовые метрики"
+![Дашборд продуктовые метрики](https://user-images.githubusercontent.com/112506257/206138706-b24e86f7-bec4-4d3b-b874-721e57a03a71.jpg)
+
 
 Описание всех проектов:
 

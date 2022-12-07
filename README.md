@@ -9,6 +9,8 @@
 <a href="Основные события.Дашборд superset.zip"><b>Дашборд с основными метриками активности пользователей</b></a>
 <br/><br/><br/>
 
+![Основные метрики](https://drive.google.com/file/d/1SmHKRUNt-uYLjWRUBZvFdTTmHY4GYKzD/view?usp=share_link)
+
 Описание всех проектов:
 
 <table>
